@@ -21,3 +21,8 @@
   text-decoration: none;
   font-weight: bolder;
 }
+.nav a:hover
+{
+  color:#fff;
+  background: #f2f2f2
+}
